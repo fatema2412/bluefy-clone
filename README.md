@@ -4,14 +4,6 @@ A modern e-commerce platform built using **HTML, CSS, and JavaScript**. Bluefy C
 
 ---
 
-## 📌 Table of Contents  
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Product Sections](#product-sections)  
-- [Technologies Used](#technologies-used)  
-- [Live Project Link](#live-project-link)  
-
----
 
 ## 📖 Project Overview  
 Bluefy Clone is a fully functional **e-commerce website** inspired by online shopping platforms. Users can explore a variety of product categories and apply **sorting & filtering** to refine their choices. 
